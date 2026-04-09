@@ -1,0 +1,16 @@
+numero1= float(input("Ingrese un numero: "))
+
+numero2= float(input("Ingrese otro numero: "))
+
+print("Suma")
+print( numero1, "+", numero2, "=", numero1 + numero2)
+print("Resta")
+print( numero1, "-", numero2, "=", numero1 - numero2)
+print("Multiplicacion")
+print( numero1, "*", numero2, "=", numero1 * numero2)
+print("Division")
+print( numero1, "/", numero2, "=", numero1 / numero2)
+print("Módulo")
+print( numero1, "%", numero2, "=", numero1 % numero2)
+print("Exponente")
+print( numero1, "**", numero2, "=", numero1 ** numero2)
