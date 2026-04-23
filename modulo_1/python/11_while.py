@@ -21,3 +21,4 @@ if total > 100:
     print("La suma es mayor a 100")
 else:
     print("La suma es menor o igual a 100")
+
